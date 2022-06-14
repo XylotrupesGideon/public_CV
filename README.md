@@ -13,12 +13,12 @@ Supervisors: [Apl. Prof Suat Özbek](https://www.cos.uni-heidelberg.de/en/resear
 
 ###Publications
 **2021**
-Hofmann, D, Garg, N, Grässle, S, Vanderheiden S, **Bergheim BG**, Bräse S, Jung N, Özbek S.. A small molecule screen identifies novel inhibitors of mechanosensory nematocyst discharge in Hydra. Sci Rep 11, 20627 (2021). https://doi.org/10.1038/s41598-021-99974-7
+Hofmann, D, Garg, N, Grässle, S, Vanderheiden S, **Bergheim BG**, Bräse S, Jung N, Özbek S.. A small molecule screen identifies novel inhibitors of mechanosensory nematocyst discharge in Hydra. Sci Rep 11, 20627 (2021). [10.1038/s41598-021-99974-7](https://doi.org/10.1038/s41598-021-99974-7)
 <br>
 **2020**
-Gornik S* **Bergheim BG*** Morel B, Stamatakis A, Foulkes NS, Guse A. Photoreceptor Diversification Accompanies the Evolution of Anthozoa. Mol. Biol. Evol. 2020, Nov, doi:10.1093/molbev/msaa304
+Gornik S* **Bergheim BG*** Morel B, Stamatakis A, Foulkes NS, Guse A. Photoreceptor Diversification Accompanies the Evolution of Anthozoa. Mol. Biol. Evol. 2020, Nov, doi: [10.1093/molbev/msaa304](https://doi.org/10.1093/molbev/msaa304)
 <br>
 **2019**
 **Bergheim BG**, Özbek S Extracellular matrix and morphogenesis in cnidarians: a tightly knit relationship.
-Essays Biochem. 2019 Sep 13;63(3):407-416. doi: 10.1042/EBC20190021. PMID:
+Essays Biochem. 2019 Sep 13;63(3):407-416. doi: [10.1042/EBC20190021](https://doi.org/10.1042/EBC20190021). PMID:
 31462530
