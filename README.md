@@ -11,7 +11,7 @@ Abstract:
 Supervisors: [Apl. Prof Suat Özbek](https://www.cos.uni-heidelberg.de/en/research-groups/molecular-evolution-and-genomics/prof-suat-ozbek) , [Prof Dr. Thomas Holstein](https://www.cos.uni-heidelberg.de/en/research-groups/molecular-evolution-and-genomics), [Dr. Aissam Ikmi](https://www.embl.org/groups/ikmi/)
 <br><br>
 
-###Publications
+### Publications
 **2021**
 Hofmann, D, Garg, N, Grässle, S, Vanderheiden S, **Bergheim BG**, Bräse S, Jung N, Özbek S.. A small molecule screen identifies novel inhibitors of mechanosensory nematocyst discharge in Hydra. Sci Rep 11, 20627 (2021). [10.1038/s41598-021-99974-7](https://doi.org/10.1038/s41598-021-99974-7)
 <br>
