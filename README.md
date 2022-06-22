@@ -60,34 +60,58 @@ _Supervisors:_ [Dr Alexander Aulehla](https://www.embl.org/groups/aulehla/) [EMB
 
 With the prospect of either leading a scientific group or a multidisciplinary team in industry I have sought tries to learn as much as possible about leadership and project management.
 
-- Project Management in Pharma and Biotech [[Certificate]](./Certificates/Projektmanagment%20in%20Biotech%20and%20Pharma_Bergheim.pdf) - May 2022
-- Basic business knowledge [[Certificate]](./Certificates/Business_basics.pdf) - November 2021
-- Managing Projects [[Certificate]](./Certificates/GA_Managing%20projects_Bergheim.pdf) - February 2021
-- Managing (virtual) meetings [[Certificate]](<./Certificates/GA_Managing%20(virtual)%20Meetings_Bergheim.pdf>) - November 2020
-- Leadership skills for young scientists [[Certificate]](./Certificates/GA_Leadership%20skills_Bergheim.pdf) - November 2020
+- Project Management in Pharma and Biotech [[Certificate-English]](./Certificates/Projektmanagment%20in%20Biotech%20and%20Pharma_Bergheim.pdf) - May 2022
+- Basic business knowledge [[Certificate-German]](./Certificates/Business_basics.pdf) - November 2021
+- Managing Projects [[Certificate-English]](./Certificates/GA_Managing%20projects_Bergheim.pdf) - February 2021
+- Managing (virtual) meetings [[Certificate-English]](<./Certificates/GA_Managing%20(virtual)%20Meetings_Bergheim.pdf>) - November 2020
+- Leadership skills for young scientists [[Certificate-English]](./Certificates/GA_Leadership%20skills_Bergheim.pdf) - November 2020
 
 #### **Science Communication**
 
-- How to design scientific figures [[Certificate]](./Certificates/GA_Scientific%20Figures_Bergheim.pdf) - February 2021
-- Science communication workshop: Publishing, editing and authorship. [[Certificate]](./Certificates/Workshop_Philipp_Campbell_Science%20Communication.pdf) - May 2019
-- Multidisciplinarity and Computer Science. [[Certificate]](./Certificates/Workshop_Philipp_Campbell_Science%20Communication.pdf) - May 2019
-- Science communication workshop: Researchers communication, public perception and public trust. [[Certificate]](./Certificates/Workshop_Philipp_Campbell_Science%20Communication.pdf) - May 2019
-- Presentation skills for high potential young master scientists. [[Certificate]](./Certificates/Presentation_Style.pdf) - March 2017
+Science has to be communicated to reach is full potential. Early on in my scientific career I therefore strived to learn how to effectively communicate scientific results to diverse audiences.
+
+- How to design scientific figures [[Certificate-English]](./Certificates/GA_Scientific%20Figures_Bergheim.pdf) - February 2021
+- Science communication workshop: Publishing, editing and authorship. [[Certificate-English]](./Certificates/Workshop_Philipp_Campbell_Science%20Communication.pdf) - May 2019
+- Multidisciplinarity and Computer Science. [[Certificate-English]](./Certificates/Workshop_Philipp_Campbell_Science%20Communication.pdf) - May 2019
+- Science communication workshop: Researchers communication, public perception and public trust. [[Certificate-English]](./Certificates/Workshop_Philipp_Campbell_Science%20Communication.pdf) - May 2019
+- Presentation skills for high potential young master scientists. [[Certificate-German]](./Certificates/Presentation_Style.pdf) - March 2017
 
 #### **Teamwork**
 
-- Intercultural competences and diversity management [[Certificate]](./Certificates/Interkulturelle%20Kompetenz_Bruno%20Gideon%20Bergheim_heiSKILLS.pdf) - June 2022
-- Managing conflicts [[Certificate]](./Certificates/GA_Managing%20Conflicts_Bergheim.pdf) - October 2020
-- Team communication - key roles and intercultural contexts [[Certificate]](./Certificates/GA_Team_communication_Culture.pdf) - August 2019
+The psychology and sociology of teams has always been fascinating to me. Especially the intercultural aspect and inter-team conflict management were therefore topics I decided to learn in parallel to my scientific education.
+
+- Intercultural competences and diversity management [[Certificate-German]](./Certificates/Interkulturelle%20Kompetenz_Bruno%20Gideon%20Bergheim_heiSKILLS.pdf) - June 2022
+- Managing conflicts [[Certificate - English]](./Certificates/GA_Managing%20Conflicts_Bergheim.pdf) - October 2020
+- Team communication - Key roles and intercultural contexts [[Certificate-English]](./Certificates/GA_Team_communication_Culture.pdf) - August 2019
 
 #### **Computer skills**
 
-- Scientific Software Development [[Certificate]](./Certificates/Scientific%20Software%20development.pdf) - March 2022
+While I am self taught in most of my computer skills I learned the importance of knowing well structured approaches to development. Therefore, I decided to learn the important skills in the form of a structured course.
+
+- Scientific Software Development [[Certificate-English]](./Certificates/Scientific%20Software%20development.pdf) - March 2022
 
 #### **Other**
 
-- Design Thinking [[Certificate]](./Certificates/Design%20Thinking_Bergheim%2C%20Bruno%20Gideon.pdf) - May 2020
+- Design Thinking [[Certificate-German] ](./Certificates/Design%20Thinking_Bergheim%2C%20Bruno%20Gideon.pdf) - May 2020
 - Creative Thinking/ Creative problem solving - March 2018
   <br><br>
 
 ## Teaching Experience
+
+### Workshops
+
+- Conflict Management for bachelor students
+- Organisation of Workshop series: "Alumi teach Master students"
+  - Conflict Management
+  - Create scientific figures/schematics using Inkscape
+  - Automatic image analysis using Fiji/imageJ macros
+
+### Courses
+
+- Animal and plant anatomy
+- Experimental development biology
+
+### Practicals
+
+- Bertalanffy high school student practical
+- Bachelor and master student supervision
