@@ -15,10 +15,12 @@ _Supervisors:_ [Apl. Prof Suat Özbek](https://www.cos.uni-heidelberg.de/en/rese
 **In Preparation**<br>
 
 - Veschgini M, Petersen HO, Suzuki R, Kling S, **Bergheim BG**, Abuillan W, Linke P, Kaufmann
-  S, Burghammer M, Özbek S, Holstein TW, Tanaka M.Wnt/-Catenin Signaling Controls Spatio-
+  S, Burghammer M, Özbek S, Holstein TW, Tanaka M.<br>
+  Wnt/-Catenin Signaling Controls Spatio-
   **Temporal Elasticity Patterns in Extracellular Matrix during Hydra Morphogenesis.**
 
-- Garg N, Stiebler U, Eismann B, **Bergheim BG**, Beckmann A, Adamczyk P, Özbek S. **Non-muscle myosin II drives critical steps of nematocyst morphogenesis.**
+- Garg N, Stiebler U, Eismann B, **Bergheim BG**, Beckmann A, Adamczyk P, Özbek <br>
+  S. **Non-muscle myosin II drives critical steps of nematocyst morphogenesis.**
 
 **2021**<br>
 
@@ -56,36 +58,36 @@ _Supervisors:_ [Dr Alexander Aulehla](https://www.embl.org/groups/aulehla/) [EMB
 
 #### **Leadership/Management**
 
-With the prospect of either leading a scientific group or a multidisciplinary team in industry I have sought out courses which
+With the prospect of either leading a scientific group or a multidisciplinary team in industry I have sought tries to learn as much as possible about leadership and project management.
 
-- May 2022 - Project Management in Pharma and Biotech [Certificate](./Certificates/Projektmanagment%20in%20Biotech%20and%20Pharma_Bergheim.pdf)
-- November 2021 - Basic business knowledge [Certificate](./Certificates/Business_basics.pdf)
-- February 2021 - Managing Projects [Certificate](./Certificates/GA_Managing%20projects_Bergheim.pdf)
-- November 2020 - Managing (virtual) meetings [Certificate](<./Certificates/GA_Managing%20(virtual)%20Meetings_Bergheim.pdf>)
-- November 2020 - Leadership skills for young scientists [Certificate](./Certificates/GA_Leadership%20skills_Bergheim.pdf)
+- Project Management in Pharma and Biotech [[Certificate]](./Certificates/Projektmanagment%20in%20Biotech%20and%20Pharma_Bergheim.pdf) - May 2022
+- Basic business knowledge [[Certificate]](./Certificates/Business_basics.pdf) - November 2021
+- Managing Projects [[Certificate]](./Certificates/GA_Managing%20projects_Bergheim.pdf) - February 2021
+- Managing (virtual) meetings [[Certificate]](<./Certificates/GA_Managing%20(virtual)%20Meetings_Bergheim.pdf>) - November 2020
+- Leadership skills for young scientists [[Certificate]](./Certificates/GA_Leadership%20skills_Bergheim.pdf) - November 2020
 
 #### **Science Communication**
 
-- February 2021 - How to design scientific figures [Certificate](./Certificates/GA_Scientific%20Figures_Bergheim.pdf)
-- May 2019 - Science communication workshop: Publishing, editing and authorship. [Certificate](./Certificates/Workshop_Philipp_Campbell_Science%20Communication.pdf)
-- May 2019 - Multidisciplinarity and Computer Science. [Certificate](./Certificates/Workshop_Philipp_Campbell_Science%20Communication.pdf)
-- May 2019 - Science communication workshop: Researchers communication, public perception and public trust. [Certificate](./Certificates/Workshop_Philipp_Campbell_Science%20Communication.pdf)
-- March 2017 - Presentation skills for high potential young master scientists. [Certificate](./Certificates/Presentation_Style.pdf)
+- How to design scientific figures [[Certificate]](./Certificates/GA_Scientific%20Figures_Bergheim.pdf) - February 2021
+- Science communication workshop: Publishing, editing and authorship. [[Certificate]](./Certificates/Workshop_Philipp_Campbell_Science%20Communication.pdf) - May 2019
+- Multidisciplinarity and Computer Science. [[Certificate]](./Certificates/Workshop_Philipp_Campbell_Science%20Communication.pdf) - May 2019
+- Science communication workshop: Researchers communication, public perception and public trust. [[Certificate]](./Certificates/Workshop_Philipp_Campbell_Science%20Communication.pdf) - May 2019
+- Presentation skills for high potential young master scientists. [[Certificate]](./Certificates/Presentation_Style.pdf) - March 2017
 
 #### **Teamwork**
 
-- June 2022 - Intercultural competences and diversity management [Certificate](./Certificates/Interkulturelle%20Kompetenz_Bruno%20Gideon%20Bergheim_heiSKILLS.pdf)
-- October 2020 - Managing conflicts [Certificate](./Certificates/GA_Managing%20Conflicts_Bergheim.pdf)
-- August 2019 - Team communication - key roles and intercultural contexts [Certificate](./Certificates/GA_Team_communication_Culture.pdf)
+- Intercultural competences and diversity management [[Certificate]](./Certificates/Interkulturelle%20Kompetenz_Bruno%20Gideon%20Bergheim_heiSKILLS.pdf) - June 2022
+- Managing conflicts [[Certificate]](./Certificates/GA_Managing%20Conflicts_Bergheim.pdf) - October 2020
+- Team communication - key roles and intercultural contexts [[Certificate]](./Certificates/GA_Team_communication_Culture.pdf) - August 2019
 
 #### **Computer skills**
 
-- March 2022 - Scientific Software Development [Certificate](./Certificates/Scientific%20Software%20development.pdf)
+- Scientific Software Development [[Certificate]](./Certificates/Scientific%20Software%20development.pdf) - March 2022
 
 #### **Other**
 
-- Design Thinking [Certificate](./Certificates/Design%20Thinking_Bergheim%2C%20Bruno%20Gideon.pdf)
-- Creative Thinking/ Creative problem solving
+- Design Thinking [[Certificate]](./Certificates/Design%20Thinking_Bergheim%2C%20Bruno%20Gideon.pdf) - May 2020
+- Creative Thinking/ Creative problem solving - March 2018
   <br><br>
 
 ## Teaching Experience
