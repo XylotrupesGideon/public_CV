@@ -115,3 +115,19 @@ While I am self taught in most of my computer skills I learned the importance of
 
 - Bertalanffy high school student practical
 - Bachelor and master student supervision
+
+# Engagement
+
+## Science communication
+
+## University/school politics
+
+- Major Speaker
+- Student representative (high school)
+
+## Other
+
+- Build the Earth
+- Social volunteer service
+
+# Hobbies
