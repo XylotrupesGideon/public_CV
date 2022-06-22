@@ -13,28 +13,31 @@ _Supervisors:_ [Apl. Prof Suat Özbek](https://www.cos.uni-heidelberg.de/en/rese
 ### Publications
 
 **In Preparation**<br>
-Veschgini M, Petersen HO, Suzuki R, Kling S, **Bergheim BG**, Abuillan W, Linke P, Kaufmann
-S, Burghammer M, Özbek S, Holstein TW, Tanaka M.Wnt/-Catenin Signaling Controls Spatio-
-Temporal Elasticity Patterns in Extracellular Matrix during Hydra Morphogenesis.
 
-Garg N, Stiebler U, Eismann B, **Bergheim BG**, Beckmann A, Adamczyk P, Özbek S. Nonmuscle
-myosin II drives critical steps of nematocyst morphogenesis.
+- Veschgini M, Petersen HO, Suzuki R, Kling S, **Bergheim BG**, Abuillan W, Linke P, Kaufmann
+  S, Burghammer M, Özbek S, Holstein TW, Tanaka M.Wnt/-Catenin Signaling Controls Spatio-
+  Temporal Elasticity Patterns in Extracellular Matrix during Hydra Morphogenesis.
+
+- Garg N, Stiebler U, Eismann B, **Bergheim BG**, Beckmann A, Adamczyk P, Özbek S. Nonmuscle
+  myosin II drives critical steps of nematocyst morphogenesis.
 
 **2021**<br>
-Hofmann, D, Garg, N, Grässle, S, Vanderheiden S, **Bergheim BG**, Bräse S, Jung N, Özbek S.<br>
-**A small molecule screen identifies novel inhibitors of mechanosensory nematocyst discharge in Hydra.**<br>
-Sci Rep 11, 20627 (2021). [10.1038/s41598-021-99974-7](https://doi.org/10.1038/s41598-021-99974-7)
+
+- Hofmann, D, Garg, N, Grässle, S, Vanderheiden S, **Bergheim BG**, Bräse S, Jung N, Özbek S.<br>
+  **A small molecule screen identifies novel inhibitors of mechanosensory nematocyst discharge in Hydra.**<br>
+  Sci Rep 11, 20627 (2021). [10.1038/s41598-021-99974-7](https://doi.org/10.1038/s41598-021-99974-7)
 
 **2020**<br>
-Gornik S\* **Bergheim BG\*** Morel B, Stamatakis A, Foulkes NS, Guse A. <br>
-**Photoreceptor Diversification Accompanies the Evolution of Anthozoa.**<br>
-Mol. Biol. Evol. 2020, Nov, doi: [10.1093/molbev/msaa304](https://doi.org/10.1093/molbev/msaa304)
+
+- Gornik S\*, **Bergheim BG\***, Morel B, Stamatakis A, Foulkes NS, Guse A. <br>
+  **Photoreceptor Diversification Accompanies the Evolution of Anthozoa.**<br>
+  Mol. Biol. Evol. 2020, Nov, doi: [10.1093/molbev/msaa304](https://doi.org/10.1093/molbev/msaa304) <span style="color:gray">(\*shared first authorship)</span>
 
 **2019**<br>
-**Bergheim BG**, Özbek S. <br>
-**Extracellular matrix and morphogenesis in cnidarians: a tightly knit relationship.**<br>
-Essays Biochem. 2019 Sep 13;63(3):407-416. doi: [10.1042/EBC20190021](https://doi.org/10.1042/EBC20190021). PMID:
-31462530
+
+- **Bergheim BG**, Özbek S. <br>
+  **Extracellular matrix and morphogenesis in cnidarians: a tightly knit relationship.**<br>
+  Essays Biochem. 2019 Sep 13;63(3):407-416. doi: [10.1042/EBC20190021](https://doi.org/10.1042/EBC20190021). PMID: 31462530
 
 <br><br>
 
@@ -48,11 +51,13 @@ _Supervisors:_ [Dr Annika Guse](https://guselab.de/team/), [Dr Nicolas Foulkes](
 _Bachelor Thesis:_ Study of the regulation of Wnt target oscillations by B-Catenin stability during mouse somitogenesis.<br>
 _Supervisors:_ [Dr Alexander Aulehla](https://www.embl.org/groups/aulehla/) [EMBL], [Dr Detlev Arendt](https://www.embl.org/groups/arendt/) [EMBL]
 
-**High School** @ [Gymnasium Rodenkirchen, Cologne](https://gymnasium-rodenkirchen.de) (until 2011)
+**High School** @[Gymnasium Rodenkirchen, Cologne](https://gymnasium-rodenkirchen.de) (until 2011)
 
 ### Extracurricular Courses/Workshops
 
 #### **Leadership/Management**
+
+With the prospect of either leading a scientific group or a multidisciplinary team in industry I have sought out courses which
 
 - May 2022 - Project Management in Pharma and Biotech [Certificate](./Certificates/Projektmanagment%20in%20Biotech%20and%20Pharma_Bergheim.pdf)
 - November 2021 - Basic business knowledge [Certificate](./Certificates/Business_basics.pdf)
