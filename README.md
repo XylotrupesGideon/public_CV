@@ -120,14 +120,29 @@ While I am self taught in most of my computer skills I learned the importance of
 
 ## Science communication
 
+**Long night of Science** @[Ruperto Carola Universität Heidelberg](https://www.uni-heidelberg.de/en) _(September 2019)_<br>
+An university evening program during which we presented scientific topics to any interested member of the public.
+
+**KinderUni** @[Ruperto Carola Universität Heidelberg](https://www.uni-heidelberg.de/en) _(September 2019)_<br>
+A scientific university program for primary school students.
+
+**KindergardenUni**@[Ruperto Carola Universität Heidelberg](https://www.uni-heidelberg.de/en) <br>
+A scientific university program for children from the French/German kindergarden in Heidelberg.
+
 ## University/school politics
 
-- Major Speaker
-- Student representative (high school)
+**Major Studies Student Speaker** _(October 2016 - April 2019)_<br>
+As Major speaker I represented the students of the developmental and stem cell biology major. In this function I also helped to organize the BioSpective talk series which had the aim to showcase career options outside of academia.
 
 ## Other
 
-- Build the Earth
-- Social volunteer service
+**Administrator/Head of Staff** @[Build the Earth](https://buildtheearth.net) _(January 2021 - today)_<br>
+The Build the Earth gaming community is an international online community with ~300.000 members. THey are dedicated to replicate the whole earth at 1:1 scale in the computer game Minecraft and thereby make the whole world accessible for any child that owns the game. As Head of Staff I am the responsible HR manager for the staff team of ~100 volunteers. I am also one of the five main administrators that act as senior management for the overall project.
+
+**Voluntary social service year** @[ICYE/Uganda Volunteers for Peace](https://www.icye.org/icye-in-the-world/uganda/) _(August 2011 - August 2012)_<br>
+For my volunteer social service year I went to Uganda to work at the Kiyumbakimu Childrens Village, home for AIDS-orphans. Sponsored by a "weltwärts" scholarship. [[Certificate-German]](./Certificates/Zertifikat_ICJA.pdf)
+
+**Co-founder** @[Masaka Street Children Project](https://masakastreetchildren.wordpress.com) _(since 2012)_
+While I was in Uganda for my social volunteer service I aided a few Ugandan friends to found a small orphanage project which helps street children to attend primary schools.
 
 # Hobbies
