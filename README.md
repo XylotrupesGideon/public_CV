@@ -96,6 +96,8 @@ While I am self taught in most of my computer skills I learned the importance of
 - Creative Thinking/ Creative problem solving - March 2018
   <br><br>
 
+## Skills
+
 ## Teaching Experience
 
 ### Workshops
@@ -129,7 +131,7 @@ A scientific university program for primary school students.
 **KindergardenUni**@[Ruperto Carola Universität Heidelberg](https://www.uni-heidelberg.de/en) <br>
 A scientific university program for children from the French/German kindergarden in Heidelberg.
 
-## University/school politics
+## University politics
 
 **Major Studies Student Speaker** _(October 2016 - April 2019)_<br>
 As Major speaker I represented the students of the developmental and stem cell biology major. In this function I also helped to organize the BioSpective talk series which had the aim to showcase career options outside of academia.
