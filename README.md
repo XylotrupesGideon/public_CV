@@ -108,9 +108,9 @@ French
 
 **Programming**<br>
 
-- Python (intermediate 5 years)
-- Fiji/ImageJ-macro language (intermediate 5 years)
-- git (basic-intermediate)
+- Python (data analysis and visualisation, intermediate 5 years)
+- Fiji/ImageJ-macro language (automated image analysis, intermediate 5 years)
+- git (basic)
 - R (basic)
 - HTML/CSS(basic)
 - JavaScript (just started learning)
@@ -123,24 +123,30 @@ French
 **Office**
 
 - MS Office (Word, Excel, Powerpoint)
-- LateX
+- LaTeX
 
 ## Teaching Experience
 
 ### Workshops
 
+I define workshops as short (<8h) courses.
+
 - Conflict Management for bachelor students
-- Organisation of Workshop series: "Alumi teach Master students"
+  [Alumni teach useful skills](##-other)
   - Conflict Management
   - Create scientific figures/schematics using Inkscape
   - Automatic image analysis using Fiji/imageJ macros
 
 ### Courses
 
+I define workshops as multi day courses with more than three attendees.
+
 - Animal and plant anatomy
 - Experimental development biology
 
 ### Practicals
+
+I define practicals as multi day courses with less than three attendees.
 
 - Bertalanffy high school student practical
 - Bachelor and master student supervision
@@ -158,7 +164,10 @@ A scientific university program for primary school students.
 **KindergardenUni**@[Ruperto Carola Universität Heidelberg](https://www.uni-heidelberg.de/en) <br>
 A scientific university program for children from the French/German kindergarden in Heidelberg.
 
-## University politics
+## University Engagement
+
+**Alumni teach useful skills; Workshop series**<br>
+After finishing my master studies I organized multiple workshops for fellow master students in which former students of the developmental and stem cell biology major program taught valuable skills they learned during or after their master studies to the younger students.
 
 **Major Studies Student Speaker** _(October 2016 - April 2019)_<br>
 As Major speaker I represented the students of the developmental and stem cell biology major. In this function I also helped to organize the BioSpective talk series which had the aim to showcase career options outside of academia.
