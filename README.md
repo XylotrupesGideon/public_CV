@@ -94,9 +94,37 @@ While I am self taught in most of my computer skills I learned the importance of
 
 - Design Thinking [[Certificate-German] ](./Certificates/Design%20Thinking_Bergheim%2C%20Bruno%20Gideon.pdf) - May 2020
 - Creative Thinking/ Creative problem solving - March 2018
-  <br><br>
+  <br>
 
 ## Skills
+
+### Languages
+
+**Fluent:**
+German, English
+**Basic:**
+French
+
+### Computer skills
+
+**Programming**<br>
+
+- Python (intermediate 5 years)
+- Fiji/ImageJ-macro language (intermediate 5 years)
+- git (basic-intermediate)
+- R (basic)
+- HTML/CSS(basic)
+- JavaScript (just started learning)
+
+**Illustration**<br>
+
+- Inkscape
+- Clip Studio Pro
+
+**Office**
+
+- MS Office (Word, Excel, Powerpoint)
+- LateX
 
 ## Teaching Experience
 
