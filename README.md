@@ -71,7 +71,7 @@ Science has to be communicated to reach is full potential. Early on in my scient
 
 - How to design scientific figures [[Certificate-English]](./Certificates/GA_Scientific%20Figures_Bergheim.pdf) - February 2021
 - Science communication workshop: Publishing, editing and authorship. [[Certificate-English]](./Certificates/Workshop_Philipp_Campbell_Science%20Communication.pdf) - May 2019
-- Multidisciplinarity and Computer Science. [[Certificate-English]](./Certificates/Workshop_Philipp_Campbell_Science%20Communication.pdf) - May 2019
+- Science communication workshop: Multidisciplinarity and Computer Science. [[Certificate-English]](./Certificates/Workshop_Philipp_Campbell_Science%20Communication.pdf) - May 2019
 - Science communication workshop: Researchers communication, public perception and public trust. [[Certificate-English]](./Certificates/Workshop_Philipp_Campbell_Science%20Communication.pdf) - May 2019
 - Presentation skills for high potential young master scientists. [[Certificate-German]](./Certificates/Presentation_Style.pdf) - March 2017
 
