@@ -6,7 +6,7 @@
 
 **PhD Thesis** @[COS, University Heidelberg](https://www.cos.uni-heidelberg.de/en) _(March 2019 - Present)_<br>
 **Proteomic dynamic of the cnidarian extracellular matrix during development** <br>
-_Supervisors:_ [Apl. Prof Suat Özbek](https://www.cos.uni-heidelberg.de/en/research-groups/molecular-evolution-and-genomics/prof-suat-ozbek) , [Prof Dr. Thomas Holstein](https://www.cos.uni-heidelberg.de/en/research-groups/molecular-evolution-and-genomics), [Dr. Aissam Ikmi](https://www.embl.org/groups/ikmi/) [EMBL]
+_Supervisors:_ [Apl. Prof Suat Özbek](https://www.cos.uni-heidelberg.de/en/research-groups/molecular-evolution-and-genomics/prof-suat-ozbek) , [Prof Dr. Thomas Holstein](https://www.cos.uni-heidelberg.de/en/research-groups/molecular-evolution-and-genomics), [Dr. Aissam Ikmi](https://www.embl.org/groups/ikmi/)
 <br>
 
 ### Publications
@@ -70,9 +70,10 @@ With the prospect of either leading a scientific group or a multidisciplinary te
 Science has to be communicated to reach is full potential. Early on in my scientific career I therefore strived to learn how to effectively communicate scientific results to diverse audiences.
 
 - How to design scientific figures [[Certificate-English]](./Certificates/GA_Scientific%20Figures_Bergheim.pdf) - February 2021
-- Science communication workshop: Publishing, editing and authorship. [[Certificate-English]](./Certificates/Workshop_Philipp_Campbell_Science%20Communication.pdf) - May 2019
-- Science communication workshop: Multidisciplinarity and Computer Science. [[Certificate-English]](./Certificates/Workshop_Philipp_Campbell_Science%20Communication.pdf) - May 2019
-- Science communication workshop: Researchers communication, public perception and public trust. [[Certificate-English]](./Certificates/Workshop_Philipp_Campbell_Science%20Communication.pdf) - May 2019
+- Science communication workshop [[Certificate-English]](./Certificates/Workshop_Philipp_Campbell_Science%20Communication.pdf):
+  - Publishing, editing and authorship. - May 2019
+  - Multidisciplinarity and Computer Science. - May 2019
+  - Researchers communication, public perception and public trust. - May 2019
 - Presentation skills for high potential young master scientists. [[Certificate-German]](./Certificates/Presentation_Style.pdf) - March 2017
 
 #### **Teamwork**
@@ -112,7 +113,7 @@ French
 - Fiji/ImageJ-macro language (automated image analysis, intermediate 5 years)
 - git (basic)
 - R (basic)
-- HTML/CSS(basic)
+- HTML/CSS (basic)
 - JavaScript (just started learning)
 
 **Illustration**<br>
@@ -127,26 +128,28 @@ French
 
 ## Teaching Experience
 
+### Courses
+
+I define courses as multi-day class with more than three attendees.
+
+- Animal and plant anatomy
+- Experimental development biology
+
 ### Workshops
 
 I define workshops as short (<8h) courses.
 
 - Conflict Management for bachelor students
-  [Alumni teach useful skills](##-other)
-  - Conflict Management
-  - Create scientific figures/schematics using Inkscape
-  - Automatic image analysis using Fiji/imageJ macros
 
-### Courses
+#### Alumni teach useful skills: [?](##-university-engagement)
 
-I define workshops as multi day courses with more than three attendees.
-
-- Animal and plant anatomy
-- Experimental development biology
+- Conflict Management
+- Create scientific figures/schematics using Inkscape
+- Automatic image analysis using Fiji/imageJ macros
 
 ### Practicals
 
-I define practicals as multi day courses with less than three attendees.
+I define practicals as multi day class with less than three attendees.
 
 - Bertalanffy high school student practical
 - Bachelor and master student supervision
@@ -175,7 +178,7 @@ As Major speaker I represented the students of the developmental and stem cell b
 ## Other
 
 **Administrator/Head of Staff** @[Build the Earth](https://buildtheearth.net) _(January 2021 - today)_<br>
-The Build the Earth gaming community is an international online community with ~300.000 members. THey are dedicated to replicate the whole earth at 1:1 scale in the computer game Minecraft and thereby make the whole world accessible for any child that owns the game. As Head of Staff I am the responsible HR manager for the staff team of ~100 volunteers. I am also one of the five main administrators that act as senior management for the overall project.
+The Build the Earth gaming community is an international online community with ~300.000 members. They are dedicated to replicate the whole earth at 1:1 scale in the computer game Minecraft and thereby make the whole world accessible for any child that owns the game. As Head of Staff I am the responsible HR manager for the staff team of ~100 volunteers. I am also one of the five main administrators that act as senior management for the overall project.
 
 **Voluntary social service year** @[ICYE/Uganda Volunteers for Peace](https://www.icye.org/icye-in-the-world/uganda/) _(August 2011 - August 2012)_<br>
 For my volunteer social service year I went to Uganda to work at the Kiyumbakimu Childrens Village, home for AIDS-orphans. Sponsored by a "weltwärts" scholarship. [[Certificate-German]](./Certificates/Zertifikat_ICJA.pdf)
