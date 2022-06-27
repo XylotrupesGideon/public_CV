@@ -159,13 +159,13 @@ I define practicals as multi day class with less than three attendees.
 ## Science communication
 
 **Long night of Science** @[Ruperto Carola Universität Heidelberg](https://www.uni-heidelberg.de/en) _(September 2019)_<br>
-An university evening program during which we presented scientific topics to any interested member of the public.
+An university evening program during which we presented scientific topics to any interested member of the public. [[Certificate-English]](./Certificates/Guse_SciCom.pdf)
 
 **KinderUni** @[Ruperto Carola Universität Heidelberg](https://www.uni-heidelberg.de/en) _(September 2019)_<br>
-A scientific university program for primary school students.
+A scientific university program for primary school students. [[Certificate-English]](./Certificates/Guse_SciCom.pdf)
 
-**KindergardenUni**@[Ruperto Carola Universität Heidelberg](https://www.uni-heidelberg.de/en) <br>
-A scientific university program for children from the French/German kindergarden in Heidelberg.
+**KindergardenUni** @[Ruperto Carola Universität Heidelberg](https://www.uni-heidelberg.de/en) <br>
+A scientific university program for children from the French/German kindergarden in Heidelberg. [[Certificate-English]](./Certificates/Guse_SciCom.pdf)
 
 ## University Engagement
 
