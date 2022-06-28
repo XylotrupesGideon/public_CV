@@ -2,7 +2,7 @@
 
 [Email](mailto:b.bergheim@gmx.de) / [Linkedin](https://www.linkedin.com/in/bruno-gideon-bergheim-b6162b101/) / [Github](https://github.com/XylotrupesGideon/)
 
-<span>#x1F1E9;#x1F1EA;</span> [German version](German_version.md)
+[German version](German_version.md)
 
 ## Science
 
