@@ -2,6 +2,8 @@
 
 [Email](mailto:b.bergheim@gmx.de) / [Linkedin](https://www.linkedin.com/in/bruno-gideon-bergheim-b6162b101/) / [Github](https://github.com/XylotrupesGideon/)
 
+[German version](German_version.md)
+
 ## Science
 
 **PhD Thesis** @[COS, University Heidelberg](https://www.cos.uni-heidelberg.de/en) _(March 2019 - Present)_<br>
