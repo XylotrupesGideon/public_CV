@@ -20,8 +20,8 @@ _Supervisors:_ [Apl. Prof Suat Özbek](https://www.cos.uni-heidelberg.de/en/rese
   Wnt/-Catenin Signaling Controls Spatio-
   **Temporal Elasticity Patterns in Extracellular Matrix during Hydra Morphogenesis.**
 
-- Garg N, Stiebler U, Eismann B, **Bergheim BG**, Beckmann A, Adamczyk P, Özbek <br>
-  S. **Non-muscle myosin II drives critical steps of nematocyst morphogenesis.**
+- Garg N; Štibler UK; Eismann B; Mercker M; **Bergheim BG**; Linn A; Adamczyk P; Engel U; Redl S; Marciniak-Czochra A; Holstein TW; Hess MW; Özbek S<br>
+  S. **Non-muscle myosin II drives critical steps of nematocyst morphogenesis in Hydra.**
 
 **2021**<br>
 
