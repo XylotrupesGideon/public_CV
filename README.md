@@ -95,6 +95,7 @@ The psychology and sociology of teams has always been fascinating to me. Especia
 While I am self taught in most of my computer skills I learned the importance of knowing well structured approaches to development. Therefore, I decided to learn the important skills in the form of a structured course.
 
 - Scientific Software Development [[Certificate-English]](./Certificates/Scientific%20Software%20development.pdf) - March 2022
+- Programming Course with Python for Life Sciences
 
 #### **Other**
 
@@ -116,11 +117,11 @@ French
 **Programming**<br>
 
 - Python (data analysis and visualisation, intermediate 5 years)
-- Fiji/ImageJ-macro language (automated image analysis, intermediate 5 years)
+- Fiji/ImageJ-macro language (automated image analysis, basic 5 years)
 - git (basic)
 - R (basic)
 - HTML/CSS (basic)
-- JavaScript (just started learning)
+- JavaScript (basic)
 
 **Illustration**<br>
 
@@ -146,6 +147,7 @@ I define courses as multi-day class with more than three attendees.
 I define workshops as short (<8h) courses.
 
 - Conflict Management for bachelor students
+- Conflict Management in the Laboratory (Graduate Academy Course)
 
 #### Alumni teach useful skills: [?](##-university-engagement)
 
