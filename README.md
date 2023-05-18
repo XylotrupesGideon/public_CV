@@ -2,10 +2,13 @@
 
 [Email](mailto:b.bergheim@gmx.de) / [Linkedin](https://www.linkedin.com/in/bruno-gideon-bergheim-b6162b101/) / [Github](https://github.com/XylotrupesGideon/)
 
+Navigation:<br>
+[Education](#education) | [Skills](#skills) | [Teaching Experience](#teaching-experience) | [Engagement](#engagement) | [Hobbies](#hobbies)
+
 ## Science
 
 **PhD Thesis** @[COS, University Heidelberg](https://www.cos.uni-heidelberg.de/en) _(March 2019 - Present)_<br>
-**Proteomic dynamic of the cnidarian extracellular matrix during development** <br>
+**Proteomic Analysis of Cnidarian Extracellular Matrix Dynamics during Development** <br>
 _Supervisors:_ [Apl. Prof Suat Özbek](https://www.cos.uni-heidelberg.de/en/research-groups/molecular-evolution-and-genomics/prof-suat-ozbek) , [Prof Dr. Thomas Holstein](https://www.cos.uni-heidelberg.de/en/research-groups/molecular-evolution-and-genomics), [Dr. Aissam Ikmi](https://www.embl.org/groups/ikmi/)
 <br>
 
@@ -16,7 +19,7 @@ _Supervisors:_ [Apl. Prof Suat Özbek](https://www.cos.uni-heidelberg.de/en/rese
 - Veschgini M, Petersen HO, Suzuki R, Kling S, **Bergheim BG**, Abuillan W, Linke P, Kaufmann
   S, Burghammer M, Özbek S, Holstein TW, Tanaka M.<br>
   **Wnt/-Catenin Signaling Controls Spatio-Temporal Elasticity Patterns in Extracellular Matrix during Hydra Morphogenesis.**
-  iScience, 26, 4 (2023) https://doi.org/10.1016/j.isci.2023.106416
+  iScience, 26(4), 106416 (2023) https://doi.org/10.1016/j.isci.2023.106416
 
 - Garg N, Štibler UK, Eismann B, Mercker M, **Bergheim BG**, Linn A, Tuchscherer P, Engel U, Redl S, Marciniak-Czochra A, Holstein TW, Hess MW, Özbek S<br>
   **Non-muscle myosin II drives critical steps of nematocyst morphogenesis.**<br>
@@ -45,11 +48,11 @@ _Supervisors:_ [Apl. Prof Suat Özbek](https://www.cos.uni-heidelberg.de/en/rese
 ## Education
 
 **Master of Science: Molecular Bioscience, [Developmental and Stem Cell Biology](https://www.cos.uni-heidelberg.de/en/teaching-at-cos-heidelberg/master-studium/curriculum)** @[COS, University Heidelberg](https://www.cos.uni-heidelberg.de/en) _(October 2016 - April 2019)_<br>
-_Master Thesis:_ Phylogeny and Characteristics of Opsin Light Receptors involved in Aiptaisa reproduction.<br>
+**Master Thesis:** Phylogeny and Characteristics of Opsin Light Receptors involved in Aiptaisa reproduction.<br>
 _Supervisors:_ [Dr Annika Guse](https://guselab.de/team/), [Dr Nicolas Foulkes](https://bip.ibcs.kit.edu/foulkes.php) [KIT]
 
 **Bachelor of Science: Biowissenschaften (Biosciences)** @[COS, University Heidelberg](https://www.cos.uni-heidelberg.de/en) _(October 2012 - April 2016)_<br>
-_Bachelor Thesis:_ Study of the regulation of Wnt target oscillations by B-Catenin stability during mouse somitogenesis.<br>
+**Bachelor Thesis:** Study of the regulation of Wnt target oscillations by β-Catenin stability during mouse somitogenesis.<br>
 _Supervisors:_ [Dr Alexander Aulehla](https://www.embl.org/groups/aulehla/) [EMBL], [Dr Detlev Arendt](https://www.embl.org/groups/arendt/) [EMBL]
 
 **High School** @[Gymnasium Rodenkirchen, Cologne](https://gymnasium-rodenkirchen.de) (until 2011)
@@ -58,7 +61,7 @@ _Supervisors:_ [Dr Alexander Aulehla](https://www.embl.org/groups/aulehla/) [EMB
 
 #### **Leadership/Management**
 
-With the prospect of either leading a scientific group or a multidisciplinary team in industry I sought out all opportunities to learn abaout leadership, project management and team work:
+With the prospect of either leading a scientific group or a multidisciplinary team in industry, I sought out opportunities to learn about leadership, project management, and teamwork:
 
 - Project Management IPMA Basic certificate [[Certificate-English]](.Certificates\IPMA_project_management.pdf)] - October 2022
 - Project Management in Pharma and Biotech [[Certificate-English]](./Certificates/Projektmanagment%20in%20Biotech%20and%20Pharma_Bergheim.pdf) - May 2022
@@ -72,7 +75,7 @@ With the prospect of either leading a scientific group or a multidisciplinary te
 
 #### **Science Communication**
 
-As scientists we have the duty to communicate our work both to other scientists and to any interested member of the public I have tried to learn as much as possible about how to do this in a clear and understandable way.
+As scientists, we have the duty to communicate our work to both other scientists and the general public. I have actively pursued opportunities to improve my communication skills and make my research accessible to a broader audience.
 
 - How to design scientific figures [[Certificate-English]](./Certificates/GA_Scientific%20Figures_Bergheim.pdf) - February 2021
 - Science communication workshop [[Certificate-English]](./Certificates/Workshop_Philipp_Campbell_Science%20Communication.pdf):
@@ -140,9 +143,9 @@ German, English
 - Laboratory practical supervision for high school - master student level
 - Supervision of 2 Bachelor thesis and 1 master thesis
 
-# Engagement
+## Engagement
 
-## Science communication Events
+### Science communication Events
 
 **The Art of Science** @[Ruperto Carola Universität Heidelberg](https://www.uni-heidelberg.de/en) _(July 2021)_<br>
 A collaboration project between scientists and artist focussed on using art to communicate scientific knowledge and results to the general public. [[Certificate-English]](./Certificates/Art_of_Science_English.pdf)[[Certificate-German]](./Certificates/Art_of_Science_Deutsch.pdf)
@@ -159,7 +162,7 @@ A scientific program for children from the Marie Curie French/German pre-school 
 **Botanical Garden Autumn festival 2018**
 A garden festival at the botanical garden Heidelberg with small scientific stations that introduced the general public to botanical knowledge. The stations topic was "The vines that surround us, wine, hops and ivy"
 
-## University Engagement
+### University Engagement
 
 **Alumni teach useful skills; Workshop series**<br>
 I organized multiple workshops for master students in which former students of the developmental and stem cell biology major program taught valuable skills they learned during or after their master studies to the younger students.
@@ -167,7 +170,7 @@ I organized multiple workshops for master students in which former students of t
 **Major Studies Student Speaker** _(October 2016 - April 2019)_<br>
 As Major speaker I represented the students of the developmental and stem cell biology major. In this function I also helped to organize the BioSpective talk series showcased career options in and outside of academia.
 
-## Non-University Engagement
+### Social Engagement
 
 **First Aid Helper** I have been a first aid helper for my department since 2020.
 
@@ -182,6 +185,6 @@ While I was in Uganda for my social volunteer service I aided a few Ugandan frie
 
 ## Hobbies
 
-**Drawing** - I especially enjoy drawing animals
-**Swimming** - Is my cool down excercise after long work days
+**Drawing** - I especially enjoy drawing animals<br>
+**Swimming** - Is my cool down excercise after long work days<br>
 **Foraging for mushrooms** - A good way to get out into nature and learn about the work around
