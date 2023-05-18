@@ -105,19 +105,17 @@ While I am self taught in most of my computer skills I learned the importance of
 
 **Fluent:**
 German, English
-**Basic:**
-French
 
 ### Computer skills
 
 **Programming**<br>
 
-- Python (data analysis and visualisation, intermediate 5 years)
-- Fiji/ImageJ-macro language (automated image analysis, basic 5 years)
-- git (basic)
-- R (basic)
-- HTML/CSS (basic)
-- JavaScript (basic)
+- **Python** (data analysis and visualisation, intermediate 5 years)
+- **Fiji/ImageJ-macro language** (automated image analysis, intermediate 5 years)
+- **git** (basic)
+- **R** (basic)
+- **HTML/CSS** (basic)
+- **JavaScript** (basic)
 
 **Illustration**<br>
 
@@ -133,30 +131,21 @@ French
 
 ### Courses
 
-I define courses as multi-day class with more than three attendees.
-
-- Animal and plant anatomy
-- Experimental development biology
-
-### Workshops
-
-I define workshops as short (<8h) courses.
+**Course organization and teaching**
 
 - Conflict Management for bachelor students
-- Conflict Management in the Laboratory (Graduate Academy Course)
+- Conflict Management for master students
+- Conflict Management in the Laboratory for PhD students (Graduate Academy Course)
 
-#### Alumni teach useful skills: [?](##-university-engagement)
-
-- Conflict Management
 - Create scientific figures/schematics using Inkscape
 - Automatic image analysis using Fiji/imageJ macros
 
-### Practicals
+**As Supervisior:**
 
-I define practicals as multi day class with less than three attendees.
-
-- Bertalanffy high school student practical
-- Bachelor and master student supervision
+- Animal and plant anatomy (group practical)
+- Experimental development biology (group practical)
+- Laboratory practical supervision for high school - master student level
+- Supervision of 2 Bachelor thesis and 1 master thesis
 
 # Engagement
 
@@ -166,13 +155,16 @@ I define practicals as multi day class with less than three attendees.
 A collaboration project between scientists and artist focussed on using art to communicate scientific knowledge and results to the general public. [[Certificate-English]](./Certificates/Art_of_Science_English.pdf)[[Certificate-German]](./Certificates/Art_of_Science_Deutsch.pdf)
 
 **Long night of Science** @[Ruperto Carola Universität Heidelberg](https://www.uni-heidelberg.de/en) _(September 2019)_<br>
-An university evening program during which we presented scientific topics to any interested member of the public. [[Certificate-English]](./Certificates/Guse_SciCom.pdf)
+An evening program during which we presented scientific topics to any interested member of the public. [[Certificate-English]](./Certificates/Guse_SciCom.pdf)
 
 **Kinder Uni** @[Ruperto Carola Universität Heidelberg](https://www.uni-heidelberg.de/en) _(September 2019)_<br>
-A scientific university program for primary school students. [[Certificate-English]](./Certificates/Guse_SciCom.pdf)
+A scientific program for primary school students. [[Certificate-English]](./Certificates/Guse_SciCom.pdf)
 
 **Kindergarden Uni** @[Ruperto Carola Universität Heidelberg](https://www.uni-heidelberg.de/en) <br>
-A scientific university program for children from the Marie Curie French/German pre-school in Heidelberg. [[Certificate-English]](./Certificates/Guse_SciCom.pdf)
+A scientific program for children from the Marie Curie French/German pre-school in Heidelberg. [[Certificate-English]](./Certificates/Guse_SciCom.pdf)
+
+**Botanical Garden Autumn festival 2018**
+A garden festival at the botanical garden Heidelberg with small scientific stations that introduced the general public to botanical knowledge. The stations topic was "The vines that surround us, wine, hops and ivy"
 
 ## University Engagement
 
@@ -182,10 +174,12 @@ After finishing my master studies I organized multiple workshops for fellow mast
 **Major Studies Student Speaker** _(October 2016 - April 2019)_<br>
 As Major speaker I represented the students of the developmental and stem cell biology major. In this function I also helped to organize the BioSpective talk series which had the aim to showcase career options outside of academia.
 
-## Other
+## Non-University Engagement
+
+**First Aid Helper**
 
 **Administrator/Head of Staff** @[Build the Earth](https://buildtheearth.net) _(January 2021 - today)_<br>
-The Build the Earth gaming community is an international online community with ~300.000 members. They are dedicated to replicate the whole earth at 1:1 scale in the computer game Minecraft and thereby make the whole world accessible for any child that owns the game. As Head of Staff I am the responsible HR manager for the staff team of ~100 volunteers. I am also one of the five main administrators that act as senior management for the overall project.
+The Build the Earth gaming community is an international online community with ~170.000 members. They are dedicated to replicate the whole earth at 1:1 scale in the computer game Minecraft and thereby make the whole world accessible for any child that owns the game. As Head of Staff I am the responsible HR manager for the staff team of ~100 volunteers. I am also one of the three main administrators that act as senior management for the overall project who deal with strategic and business decisions.
 
 **Voluntary social service year** @[ICYE/Uganda Volunteers for Peace](https://www.icye.org/icye-in-the-world/uganda/) _(August 2011 - August 2012)_<br>
 For my volunteer social service year I went to Uganda to work at the Kiyumbakimu Childrens Village, home for AIDS-orphans. Sponsored by a "weltwärts" scholarship. [[Certificate-German]](./Certificates/Zertifikat_ICJA.pdf)
