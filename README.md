@@ -197,4 +197,3 @@ For my volunteer social service year I went to Uganda to work at the Kiyumbakimu
 **Co-founder** @[Masaka Street Children Project](https://masakastreetchildren.wordpress.com) _(since 2012)_
 While I was in Uganda for my social volunteer service I aided a few Ugandan friends to found a small orphanage project which helps street children to attend primary schools.
 
-# Hobbies
