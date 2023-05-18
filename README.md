@@ -58,7 +58,7 @@ _Supervisors:_ [Dr Alexander Aulehla](https://www.embl.org/groups/aulehla/) [EMB
 
 #### **Leadership/Management**
 
-With the prospect of either leading a scientific group or a multidisciplinary team in industry I have sought tries to learn as much as possible about leadership and project management.
+With the prospect of either leading a scientific group or a multidisciplinary team in industry I sought out all opportunities to learn abaout leadership, project management and team work:
 
 - Project Management IPMA Basic certificate [[Certificate-English]](.Certificates\IPMA_project_management.pdf)] - October 2022
 - Project Management in Pharma and Biotech [[Certificate-English]](./Certificates/Projektmanagment%20in%20Biotech%20and%20Pharma_Bergheim.pdf) - May 2022
@@ -66,10 +66,13 @@ With the prospect of either leading a scientific group or a multidisciplinary te
 - Managing Projects [[Certificate-English]](./Certificates/GA_Managing%20projects_Bergheim.pdf) - February 2021
 - Managing (virtual) meetings [[Certificate-English]](<./Certificates/GA_Managing%20(virtual)%20Meetings_Bergheim.pdf>) - November 2020
 - Leadership skills for young scientists [[Certificate-English]](./Certificates/GA_Leadership%20skills_Bergheim.pdf) - November 2020
+- Intercultural competences and diversity management [[Certificate-German]](./Certificates/Interkulturelle%20Kompetenz_Bruno%20Gideon%20Bergheim_heiSKILLS.pdf) - June 2022
+- Managing conflicts [[Certificate - English]](./Certificates/GA_Managing%20Conflicts_Bergheim.pdf) - October 2020
+- Team communication - Key roles and intercultural contexts [[Certificate-English]](./Certificates/GA_Team_communication_Culture.pdf) - August 2019
 
 #### **Science Communication**
 
-Science has to be communicated to reach is full potential. Early on in my scientific career I therefore strived to learn how to effectively communicate scientific results to diverse audiences.
+As scientists we have the duty to communicate our work both to other scientists and to any interested member of the public I have tried to learn as much as possible about how to do this in a clear and understandable way.
 
 - How to design scientific figures [[Certificate-English]](./Certificates/GA_Scientific%20Figures_Bergheim.pdf) - February 2021
 - Science communication workshop [[Certificate-English]](./Certificates/Workshop_Philipp_Campbell_Science%20Communication.pdf):
@@ -77,14 +80,6 @@ Science has to be communicated to reach is full potential. Early on in my scient
   - Multidisciplinarity and Computer Science. - May 2019
   - Researchers communication, public perception and public trust. - May 2019
 - Presentation skills for high potential young master scientists. [[Certificate-German]](./Certificates/Presentation_Style.pdf) - March 2017
-
-#### **Teamwork**
-
-The psychology and sociology of teams has always been fascinating to me. Especially the intercultural aspect and inter-team conflict management were therefore topics I decided to learn in parallel to my scientific education.
-
-- Intercultural competences and diversity management [[Certificate-German]](./Certificates/Interkulturelle%20Kompetenz_Bruno%20Gideon%20Bergheim_heiSKILLS.pdf) - June 2022
-- Managing conflicts [[Certificate - English]](./Certificates/GA_Managing%20Conflicts_Bergheim.pdf) - October 2020
-- Team communication - Key roles and intercultural contexts [[Certificate-English]](./Certificates/GA_Team_communication_Culture.pdf) - August 2019
 
 #### **Computer skills**
 
@@ -135,6 +130,8 @@ German, English
 
 - Create scientific figures/schematics using Inkscape
 - Automatic image analysis using Fiji/imageJ macros
+
+- (ongoing) Establish mental health first aid at the institute
 
 **As Supervisior:**
 
