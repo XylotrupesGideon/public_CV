@@ -17,8 +17,7 @@ _Supervisors:_ [Apl. Prof Suat Özbek](https://www.cos.uni-heidelberg.de/en/rese
 
 - Veschgini M, Petersen HO, Suzuki R, Kling S, **Bergheim BG**, Abuillan W, Linke P, Kaufmann
   S, Burghammer M, Özbek S, Holstein TW, Tanaka M.<br>
-  Wnt/-Catenin Signaling Controls Spatio-
-  **Temporal Elasticity Patterns in Extracellular Matrix during Hydra Morphogenesis.**
+  **Wnt/-Catenin Signaling Controls Spatio-Temporal Elasticity Patterns in Extracellular Matrix during Hydra Morphogenesis.**
 
 **2023**<br>
 
