@@ -60,7 +60,7 @@ _Supervisors:_ [Dr Alexander Aulehla](https://www.embl.org/groups/aulehla/) [EMB
 
 With the prospect of either leading a scientific group or a multidisciplinary team in industry I have sought tries to learn as much as possible about leadership and project management.
 
-- Project Management IPMA Basic certificate [] - October 2022
+- Project Management IPMA Basic certificate [[Certificate-English]](.Certificates\IPMA_project_management.pdf)] - October 2022
 - Project Management in Pharma and Biotech [[Certificate-English]](./Certificates/Projektmanagment%20in%20Biotech%20and%20Pharma_Bergheim.pdf) - May 2022
 - Basic business knowledge [[Certificate-German]](./Certificates/Business_basics.pdf) - November 2021
 - Managing Projects [[Certificate-English]](./Certificates/GA_Managing%20projects_Bergheim.pdf) - February 2021
@@ -192,4 +192,3 @@ For my volunteer social service year I went to Uganda to work at the Kiyumbakimu
 
 **Co-founder** @[Masaka Street Children Project](https://masakastreetchildren.wordpress.com) _(since 2012)_
 While I was in Uganda for my social volunteer service I aided a few Ugandan friends to found a small orphanage project which helps street children to attend primary schools.
-
