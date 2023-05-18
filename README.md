@@ -169,10 +169,10 @@ As Major speaker I represented the students of the developmental and stem cell b
 
 ## Non-University Engagement
 
-**First Aid Helper**
+**First Aid Helper** I have been a first aid helper for my department since 2020.
 
 **Administrator/Head of Staff** @[Build the Earth](https://buildtheearth.net) _(January 2021 - today)_<br>
-The Build the Earth gaming community is an international online community with ~170.000 members. They are dedicated to replicate the whole earth at 1:1 scale in the computer game Minecraft and thereby make the whole world accessible for any child that owns the game. As Head of Staff I am the responsible HR manager for the staff team of ~100 volunteers. I am also one of the three main administrators that act as senior management for the overall project who deal with strategic and business decisions.
+The Build the Earth gaming community is an international online community with ~170.000 members. They are dedicated to replicate the whole earth at 1:1 scale in the computer game Minecraft and thereby make the whole world accessible for any child that owns the game for free. As head of staff I am the responsible Human Resources manager for the team of ~100 volunteers. I am also one of the three main administrators that act as senior management for the overall project who deal with strategic and business decisions.
 
 **Voluntary social service year** @[ICYE/Uganda Volunteers for Peace](https://www.icye.org/icye-in-the-world/uganda/) _(August 2011 - August 2012)_<br>
 For my volunteer social service year I went to Uganda to work at the Kiyumbakimu Childrens Village, home for AIDS-orphans. Sponsored by a "weltwärts" scholarship. [[Certificate-German]](./Certificates/Zertifikat_ICJA.pdf)
@@ -182,4 +182,6 @@ While I was in Uganda for my social volunteer service I aided a few Ugandan frie
 
 ## Hobbies
 
-Drawing - I enjoy drawing animals at the Zoo
+**Drawing** - I especially enjoy drawing animals
+**Swimming** - Is my cool down excercise after long work days
+**Foraging for mushrooms** - A good way to get out into nature and learn about the work around
