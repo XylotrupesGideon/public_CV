@@ -13,13 +13,12 @@ _Supervisors:_ [Apl. Prof Suat Özbek](https://www.cos.uni-heidelberg.de/en/rese
 
 ### Publications
 
-**In Preparation**<br>
+**2023**<br>
 
 - Veschgini M, Petersen HO, Suzuki R, Kling S, **Bergheim BG**, Abuillan W, Linke P, Kaufmann
   S, Burghammer M, Özbek S, Holstein TW, Tanaka M.<br>
   **Wnt/-Catenin Signaling Controls Spatio-Temporal Elasticity Patterns in Extracellular Matrix during Hydra Morphogenesis.**
-
-**2023**<br>
+  iScience, 26, 4 (2023) https://doi.org/10.1016/j.isci.2023.106416
 
 - Garg N, Štibler UK, Eismann B, Mercker M, **Bergheim BG**, Linn A, Tuchscherer P, Engel U, Redl S, Marciniak-Czochra A, Holstein TW, Hess MW, Özbek S<br>
   **Non-muscle myosin II drives critical steps of nematocyst morphogenesis.**<br>
