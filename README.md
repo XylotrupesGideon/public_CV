@@ -57,7 +57,7 @@ _Supervisors:_ [Dr Alexander Aulehla](https://www.embl.org/groups/aulehla/) [EMB
 
 **High School** @[Gymnasium Rodenkirchen, Cologne](https://gymnasium-rodenkirchen.de) (until 2011)
 
-### Extracurricular Courses/Workshops
+## Extracurricular Courses/Workshops
 
 #### **Leadership/Management**
 
