@@ -59,6 +59,8 @@ _Supervisors:_ [Dr Alexander Aulehla](https://www.embl.org/groups/aulehla/) [EMB
 
 ## Extracurricular Courses/Workshops
 
+<hr>
+
 #### **Leadership/Management**
 
 With the prospect of either leading a scientific group or a multidisciplinary team in industry, I sought out opportunities to learn about leadership, project management, and teamwork:
@@ -99,6 +101,7 @@ While I am self taught in most of my computer skills I learned the importance of
 
 ## Skills
 
+<hr>
 ### Languages
 
 **Fluent:**
@@ -123,6 +126,7 @@ German, English
 
 ## Teaching Experience
 
+<hr>
 ### Courses
 
 **Course organization and teaching**
@@ -145,6 +149,7 @@ German, English
 
 ## Engagement
 
+<hr>
 ### Science communication Events
 
 **The Art of Science** @[Ruperto Carola Universität Heidelberg](https://www.uni-heidelberg.de/en) _(July 2021)_<br>
@@ -185,6 +190,7 @@ While I was in Uganda for my social volunteer service I aided a few Ugandan frie
 
 ## Hobbies
 
+<hr>
 **Drawing** - I especially enjoy drawing animals<br>
 **Swimming** - Is my cool down excercise after long work days<br>
 **Foraging for mushrooms** - A good way to get out into nature and learn about the work around
