@@ -106,9 +106,7 @@ While I am self taught in most of my computer skills I learned the importance of
 **Fluent:**
 German, English
 
-### Computer skills
-
-**Programming**<br>
+### Programming/Computer
 
 - **Python** (data analysis and visualisation, intermediate 5 years)
 - **Fiji/ImageJ-macro language** (automated image analysis, intermediate 5 years)
@@ -117,15 +115,13 @@ German, English
 - **HTML/CSS** (basic)
 - **JavaScript** (basic)
 
-**Illustration**<br>
+- MS Office (Word, Excel, Powerpoint)
+- LaTeX (basic)
+
+### Digital Art
 
 - Inkscape
 - Clip Studio Pro
-
-**Office**
-
-- MS Office (Word, Excel, Powerpoint)
-- LaTeX
 
 ## Teaching Experience
 
@@ -169,10 +165,10 @@ A garden festival at the botanical garden Heidelberg with small scientific stati
 ## University Engagement
 
 **Alumni teach useful skills; Workshop series**<br>
-After finishing my master studies I organized multiple workshops for fellow master students in which former students of the developmental and stem cell biology major program taught valuable skills they learned during or after their master studies to the younger students.
+I organized multiple workshops for master students in which former students of the developmental and stem cell biology major program taught valuable skills they learned during or after their master studies to the younger students.
 
 **Major Studies Student Speaker** _(October 2016 - April 2019)_<br>
-As Major speaker I represented the students of the developmental and stem cell biology major. In this function I also helped to organize the BioSpective talk series which had the aim to showcase career options outside of academia.
+As Major speaker I represented the students of the developmental and stem cell biology major. In this function I also helped to organize the BioSpective talk series showcased career options in and outside of academia.
 
 ## Non-University Engagement
 
@@ -186,3 +182,7 @@ For my volunteer social service year I went to Uganda to work at the Kiyumbakimu
 
 **Co-founder** @[Masaka Street Children Project](https://masakastreetchildren.wordpress.com) _(since 2012)_
 While I was in Uganda for my social volunteer service I aided a few Ugandan friends to found a small orphanage project which helps street children to attend primary schools.
+
+## Hobbies
+
+Drawing - I enjoy drawing animals at the Zoo
