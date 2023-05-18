@@ -47,6 +47,7 @@ _Supervisors:_ [Apl. Prof Suat Özbek](https://www.cos.uni-heidelberg.de/en/rese
 
 ## Education
 
+<hr>
 **Master of Science: Molecular Bioscience, [Developmental and Stem Cell Biology](https://www.cos.uni-heidelberg.de/en/teaching-at-cos-heidelberg/master-studium/curriculum)** @[COS, University Heidelberg](https://www.cos.uni-heidelberg.de/en) _(October 2016 - April 2019)_<br>
 **Master Thesis:** Phylogeny and Characteristics of Opsin Light Receptors involved in Aiptaisa reproduction.<br>
 _Supervisors:_ [Dr Annika Guse](https://guselab.de/team/), [Dr Nicolas Foulkes](https://bip.ibcs.kit.edu/foulkes.php) [KIT]
