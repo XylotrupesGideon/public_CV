@@ -192,6 +192,6 @@ While I was in Uganda for my social volunteer service I aided a few Ugandan frie
 ## Hobbies
 
 <hr>
-**Drawing** - I especially enjoy drawing animals<br>
-**Swimming** - Is my cool down excercise after long work days<br>
-**Foraging for mushrooms** - A good way to get out into nature and learn about the work around
+**Drawing** - I especially enjoy drawing animals in nature or the Zoo.<br>
+**Swimming/Bouldering** - Is my cool down excercise after long work days.<br>
+**Foraging for mushrooms** - A good way to get out into nature and learn about the world around us.
