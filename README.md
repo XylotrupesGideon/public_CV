@@ -163,8 +163,8 @@ A scientific program for primary school students. [[Certificate-English]](./Cert
 **Kindergarden Uni** @[Ruperto Carola Universität Heidelberg](https://www.uni-heidelberg.de/en) <br>
 A scientific program for children from the Marie Curie French/German pre-school in Heidelberg. [[Certificate-English]](./Certificates/Guse_SciCom.pdf)
 
-**Botanical Garden Autumn festival 2018**
-A garden festival at the botanical garden Heidelberg with small scientific stations that introduced the general public to botanical knowledge. The stations topic was "The vines that surround us, wine, hops and ivy"
+**Botanical Garden Autumn festival 2018** @[Heidelberg Botanical Garden](https://www.botgart.cos.uni-heidelberg.de/en) <br>
+A garden festival with small scientific stations that introduced the general public to botanical knowledge. My stations topic was "The vines that surround us, wine, hops and ivy"
 
 ### University Engagement
 
