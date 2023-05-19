@@ -69,8 +69,8 @@ Basic: **French**, **Luganda**
 
 ### Computer skills
 
-- **Python** (data analysis and visualisation, intermediate 5 years)
-- **Fiji/ImageJ-macro language** (automated image analysis, intermediate 5 years)
+- **Python** intermediate, data analysis and visualisation, 5 years)
+- **Fiji/ImageJ-macro language** (intermediate, automated image analysis, 5 years)
 - **git** (basic)
 - **R** (basic)
 - **HTML/CSS** (basic)
