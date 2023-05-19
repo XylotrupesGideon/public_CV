@@ -3,7 +3,7 @@
 [Email](mailto:b.bergheim@gmx.de) / [Linkedin](https://www.linkedin.com/in/bruno-gideon-bergheim-b6162b101/) / [Github](https://github.com/XylotrupesGideon/)
 
 Navigation:<br>
-[Education](#education) | [Skills](#skills) | [Teaching Experience](#teaching-experience) | [Engagement](#engagement) | [Hobbies](#hobbies)
+[Education](#education) | [Skills](#skills-and-courses) | [Teaching Experience](#teaching-experience) | [Engagement](#engagement) | [Hobbies](#hobbies-and-interests)
 
 ## Science
 
@@ -65,10 +65,11 @@ _Supervisors:_ [Dr Alexander Aulehla](https://www.embl.org/groups/aulehla/) , [D
 
 ### Languages
 
-**Fluent:**
-German, English
+Fluent: **German**, **English**
 
-### **Computer skills**
+Basic: **French**, **Luganda**
+
+### Computer skills
 
 - **Python** (data analysis and visualisation, intermediate 5 years)
 - **Fiji/ImageJ-macro language** (automated image analysis, intermediate 5 years)
@@ -92,7 +93,7 @@ German, English
 - Programming Course with Python for Life Sciences [[Certificate-German]](.\Certificates\Schein_Python_Kurs_WS_2021_22_Gideon_Bergheim.pdf) -September 2021
 - Introductory Statistics for Biology [[Certificate-German]](.\Certificates\Schein_Statistic_Kurs_WS_2021_22_Gideon_Bergheim.pdf) - September 2021
 
-#### **Leadership/Management**
+#### Leadership/Management
 
 With the prospect of either leading a scientific group or a multidisciplinary team in industry, I sought out opportunities to learn about leadership, project management, and teamwork:
 
@@ -106,7 +107,7 @@ With the prospect of either leading a scientific group or a multidisciplinary te
 - Managing conflicts [[Certificate - English]](./Certificates/GA_Managing%20Conflicts_Bergheim.pdf) - October 2020
 - Team communication - Key roles and intercultural contexts [[Certificate-English]](./Certificates/GA_Team_communication_Culture.pdf) - August 2019
 
-#### **Science Communication**
+#### Science Communication
 
 As scientists, we have the duty to communicate our work to both other scientists and the general public. I have actively pursued opportunities to improve my communication skills and make my research accessible to a broader audience.
 
@@ -117,7 +118,7 @@ As scientists, we have the duty to communicate our work to both other scientists
   - Researchers communication, public perception and public trust. - May 2019
 - Presentation skills for high potential young master scientists. [[Certificate-German]](./Certificates/Presentation_Style.pdf) - March 2017
 
-#### **Other**
+#### Other
 
 I enjoy using creativity techniques to come put with unique and creative solutions. To support this I took some design and creativity courses:
 
@@ -125,15 +126,11 @@ I enjoy using creativity techniques to come put with unique and creative solutio
 - Creative Thinking/ Creative problem solving - March 2018
   <br>
 
-### Programming/Computer
-
 ## Teaching Experience
 
 <hr>
 
-### Courses
-
-I enjoy teaching and sharing my knowledge with students. Therefore I am always happy to supervise students or to organize courses/workshops that convey knowledge to others.
+I enjoy teaching and sharing my knowledge. Therefore I am always happy to supervise students or to organize and teach courses/workshops that convey knowledge to others.
 
 Course organisazion and teaching:
 
@@ -148,7 +145,7 @@ Supervision:
 - Animal and plant anatomy (group practical)
 - Experimental development biology (group practical)
 - Laboratory practicals for high school, bachelor and master student level
-- Supervision of 2 bachelor theses and 1 master thesis
+- Supervision of two bachelor theses and one master thesis
 
 ## Engagement
 
@@ -157,7 +154,7 @@ Supervision:
 ### Outreach
 
 **The Art of Science** @[Ruperto Carola Universität Heidelberg](https://www.uni-heidelberg.de/en) _(July 2021)_<br>
-A collaboration project between scientists and artist focussed on using art to communicate scientific knowledge and results to the general public. [[Certificate-English]](./Certificates/Art_of_Science_English.pdf)[[Certificate-German]](./Certificates/Art_of_Science_Deutsch.pdf)
+A collaboration project between scientists and artist focussed on using art to communicate scientific knowledge the public. [[Certificate-English]](./Certificates/Art_of_Science_English.pdf)[[Certificate-German]](./Certificates/Art_of_Science_Deutsch.pdf)
 
 **Long night of Science** @[Ruperto Carola Universität Heidelberg](https://www.uni-heidelberg.de/en) _(September 2019)_<br>
 An evening program during which we presented scientific topics to any interested member of the public. [[Certificate-English]](./Certificates/Guse_SciCom.pdf)
@@ -174,14 +171,18 @@ A garden festival at the botanical garden Heidelberg with small scientific stati
 ### University Engagement
 
 **Alumni teach useful skills; Workshop series**<br>
-I organized multiple workshops for master students in which former students of the developmental and stem cell biology major program taught valuable skills they learned during or after their master studies to the younger students.
+I organized and taught multiple workshops for master students in which former students of the developmental and stem cell biology major program taught valuable skills they learned during or after their master studies to the younger students.
 
 **Major Studies Student Speaker** _(October 2016 - April 2019)_<br>
 As Major speaker I represented the students of the developmental and stem cell biology major. In this function I also helped to organize the BioSpective talk series showcased career options in and outside of academia.
 
-### Social Engagement
+**First Aid Helper** _(2020 - Present)_ <br>
+I have been a first aid helper for my department since 2020.
 
-**First Aid Helper** I have been a first aid helper for my department since 2020.
+**Mental Health First Aid** _(organization ongoing)_ <br>
+I am currently trying to establish Mental Health First Aid course at the Center for Organismal Studies. These courses will train us to help colleagues that are struggling with mental health.
+
+### Social Engagement outside of university
 
 **Administrator/Head of Staff** @[Build the Earth](https://buildtheearth.net) _(January 2021 - today)_<br>
 The Build the Earth gaming community is an international online community with ~170.000 members. They are dedicated to replicate the whole earth at 1:1 scale in the computer game Minecraft and thereby make the whole world accessible for any child that owns the game for free. As head of staff I am the responsible Human Resources manager for the team of ~100 volunteers. I am also one of the three main administrators that act as senior management for the overall project who deal with strategic and business decisions.
@@ -192,9 +193,10 @@ For my volunteer social service year I went to Uganda to work at the Kiyumbakimu
 **Co-founder** @[Masaka Street Children Project](https://masakastreetchildren.wordpress.com) _(since 2012)_
 While I was in Uganda for my social volunteer service I aided a few Ugandan friends to found a small orphanage project which helps street children to attend primary schools.
 
-## Hobbies
+## Hobbies and Interests
 
-<hr>
-**Drawing** - I especially enjoy drawing animals in nature or the Zoo.<br>
-**Swimming/Bouldering** - Is my cool down excercise after long work days.<br>
-**Foraging for mushrooms** - A good way to get out into nature and learn about the world around us.
+**Drawing** - I especially enjoy drawing animals in nature or at the zoo. I especially enjoy the required attention to details, good observation skills and patience.
+
+**Foraging for mushrooms** - A good way to get out into nature and learn about the world around us. Also the systematic identification of edible mushrooms
+
+**Swimming/Bouldering** - Is my cool down excercise after long work days.
