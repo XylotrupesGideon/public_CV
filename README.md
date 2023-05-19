@@ -11,10 +11,10 @@ Navigation:<br>
 
 **PhD Thesis** @[COS, University Heidelberg](https://www.cos.uni-heidelberg.de/en) _(March 2019 - Present)_<br>
 **Proteomic Analysis of Cnidarian Extracellular Matrix Dynamics during Development** <br>
-_Supervisors:_ [Apl. Prof Suat Özbek](https://www.cos.uni-heidelberg.de/en/research-groups/molecular-evolution-and-genomics/prof-suat-ozbek) , [Prof Dr. Thomas Holstein](https://www.cos.uni-heidelberg.de/en/research-groups/molecular-evolution-and-genomics), [Dr. Aissam Ikmi](https://www.embl.org/groups/ikmi/)
+_Supervisor:_ [Apl. Prof Suat Özbek](https://www.cos.uni-heidelberg.de/en/research-groups/molecular-evolution-and-genomics/prof-suat-ozbek); _TAC members:_ [Prof Dr. Thomas Holstein](https://www.cos.uni-heidelberg.de/en/research-groups/molecular-evolution-and-genomics), [Dr. Aissam Ikmi](https://www.embl.org/groups/ikmi/)
 <br>
 
-**Master of Science: Molecular Bioscience**, [Developmental and Stem Cell Biology](https://www.cos.uni-heidelberg.de/en/teaching-at-cos-heidelberg/master-studium/curriculum) @[COS, University Heidelberg](https://www.cos.uni-heidelberg.de/en) _(October 2016 - April 2019)_<br>
+**Master of Science: Molecular Bioscience, [Developmental and Stem Cell Biology](https://www.cos.uni-heidelberg.de/en/teaching-at-cos-heidelberg/master-studium/curriculum)** @[COS, University Heidelberg](https://www.cos.uni-heidelberg.de/en) _(October 2016 - April 2019)_<br>
 Master Thesis: _Phylogeny and Characteristics of Opsin Light Receptors involved in Aiptaisa reproduction._<br>
 _Supervisors:_ [Dr. Annika Guse](https://guselab.de/team/), [Dr. Nicolas Foulkes](https://bip.ibcs.kit.edu/foulkes.php)
 
