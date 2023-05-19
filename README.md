@@ -3,16 +3,28 @@
 [Email](mailto:b.bergheim@gmx.de) / [Linkedin](https://www.linkedin.com/in/bruno-gideon-bergheim-b6162b101/)
 
 Navigation:<br>
-[Education](#education) | [Skills](#skills-and-courses) | [Teaching Experience](#teaching-experience) | [Engagement](#engagement) | [Hobbies](#hobbies-and-interests)
+[Education](#education) | [Publications](#publications) | [Skills](#skills-and-courses) | [Teaching Experience](#teaching-experience) | [Engagement](#engagement) | [Hobbies](#hobbies-and-interests)
 
-## Science
+## Education
+
+<hr>
 
 **PhD Thesis** @[COS, University Heidelberg](https://www.cos.uni-heidelberg.de/en) _(March 2019 - Present)_<br>
 **Proteomic Analysis of Cnidarian Extracellular Matrix Dynamics during Development** <br>
 _Supervisors:_ [Apl. Prof Suat Özbek](https://www.cos.uni-heidelberg.de/en/research-groups/molecular-evolution-and-genomics/prof-suat-ozbek) , [Prof Dr. Thomas Holstein](https://www.cos.uni-heidelberg.de/en/research-groups/molecular-evolution-and-genomics), [Dr. Aissam Ikmi](https://www.embl.org/groups/ikmi/)
 <br>
 
-### Publications
+**Master of Science: Molecular Bioscience**, [Developmental and Stem Cell Biology](https://www.cos.uni-heidelberg.de/en/teaching-at-cos-heidelberg/master-studium/curriculum) @[COS, University Heidelberg](https://www.cos.uni-heidelberg.de/en) _(October 2016 - April 2019)_<br>
+Master Thesis: _Phylogeny and Characteristics of Opsin Light Receptors involved in Aiptaisa reproduction._<br>
+_Supervisors:_ [Dr. Annika Guse](https://guselab.de/team/), [Dr. Nicolas Foulkes](https://bip.ibcs.kit.edu/foulkes.php)
+
+**Bachelor of Science: Biowissenschaften (Biosciences)** @[COS, University Heidelberg](https://www.cos.uni-heidelberg.de/en) _(October 2012 - April 2016)_<br>
+Bachelor Thesis: _Study of the regulation of Wnt target oscillations by β-Catenin stability during mouse somitogenesis._<br>
+_Supervisors:_ [Dr. Alexander Aulehla](https://www.embl.org/groups/aulehla/) , [Dr. Detlev Arendt](https://www.embl.org/groups/arendt/)
+
+**High School** @[Gymnasium Rodenkirchen, Cologne](https://gymnasium-rodenkirchen.de) (until 2011)
+
+## Publications
 
 **2023**<br>
 
@@ -44,20 +56,6 @@ _Supervisors:_ [Apl. Prof Suat Özbek](https://www.cos.uni-heidelberg.de/en/rese
   Essays Biochem. 2019 Sep 13;63(3):407-416. doi: [10.1042/EBC20190021](https://doi.org/10.1042/EBC20190021). PMID: 31462530
   [label](https://www.youtube.com/watch?v%3DPblEBdVLiBo)
   <br><br>
-
-## Education
-
-<hr>
-
-**Master of Science: Molecular Bioscience**, [Developmental and Stem Cell Biology](https://www.cos.uni-heidelberg.de/en/teaching-at-cos-heidelberg/master-studium/curriculum) @[COS, University Heidelberg](https://www.cos.uni-heidelberg.de/en) _(October 2016 - April 2019)_<br>
-Master Thesis: _Phylogeny and Characteristics of Opsin Light Receptors involved in Aiptaisa reproduction._<br>
-_Supervisors:_ [Dr Annika Guse](https://guselab.de/team/), [Dr Nicolas Foulkes](https://bip.ibcs.kit.edu/foulkes.php)
-
-**Bachelor of Science: Biowissenschaften (Biosciences)** @[COS, University Heidelberg](https://www.cos.uni-heidelberg.de/en) _(October 2012 - April 2016)_<br>
-Bachelor Thesis: _Study of the regulation of Wnt target oscillations by β-Catenin stability during mouse somitogenesis._<br>
-_Supervisors:_ [Dr Alexander Aulehla](https://www.embl.org/groups/aulehla/) , [Dr Detlev Arendt](https://www.embl.org/groups/arendt/)
-
-**High School** @[Gymnasium Rodenkirchen, Cologne](https://gymnasium-rodenkirchen.de) (until 2011)
 
 ## Skills and courses
 
