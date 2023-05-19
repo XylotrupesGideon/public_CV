@@ -91,7 +91,7 @@ Basic: **French**, **Luganda**
 - Programming Course with Python for Life Sciences [[Certificate-German]](.\Certificates\Schein_Python_Kurs_WS_2021_22_Gideon_Bergheim.pdf) -September 2021
 - Introductory Statistics for Biology [[Certificate-German]](.\Certificates\Schein_Statistic_Kurs_WS_2021_22_Gideon_Bergheim.pdf) - September 2021
 
-#### Leadership/Management
+### Leadership/Management
 
 With the prospect of either leading a scientific group or a multidisciplinary team in industry, I sought out opportunities to learn about leadership, project management, and teamwork:
 
@@ -105,7 +105,7 @@ With the prospect of either leading a scientific group or a multidisciplinary te
 - Managing conflicts [[Certificate - English]](./Certificates/GA_Managing%20Conflicts_Bergheim.pdf) - October 2020
 - Team communication - Key roles and intercultural contexts [[Certificate-English]](./Certificates/GA_Team_communication_Culture.pdf) - August 2019
 
-#### Science Communication
+### Science Communication
 
 As scientists, we have the duty to communicate our work to both other scientists and the general public. I have actively pursued opportunities to improve my communication skills and make my research accessible to a broader audience.
 
@@ -116,7 +116,7 @@ As scientists, we have the duty to communicate our work to both other scientists
   - Researchers communication, public perception and public trust. - May 2019
 - Presentation skills for high potential young master scientists. [[Certificate-German]](./Certificates/Presentation_Style.pdf) - March 2017
 
-#### Other
+### Other
 
 I enjoy using creativity techniques to come put with unique and creative solutions. To support this I took some design and creativity courses:
 
