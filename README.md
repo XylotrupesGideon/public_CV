@@ -42,25 +42,55 @@ _Supervisors:_ [Apl. Prof Suat Özbek](https://www.cos.uni-heidelberg.de/en/rese
 - **Bergheim BG**, Özbek S. <br>
   **Extracellular matrix and morphogenesis in cnidarians: a tightly knit relationship.**<br>
   Essays Biochem. 2019 Sep 13;63(3):407-416. doi: [10.1042/EBC20190021](https://doi.org/10.1042/EBC20190021). PMID: 31462530
-
-<br><br>
+  [label](https://www.youtube.com/watch?v%3DPblEBdVLiBo)
+  <br><br>
 
 ## Education
 
 <hr>
-**Master of Science: Molecular Bioscience, [Developmental and Stem Cell Biology](https://www.cos.uni-heidelberg.de/en/teaching-at-cos-heidelberg/master-studium/curriculum)** @[COS, University Heidelberg](https://www.cos.uni-heidelberg.de/en) _(October 2016 - April 2019)_<br>
-**Master Thesis:** Phylogeny and Characteristics of Opsin Light Receptors involved in Aiptaisa reproduction.<br>
-_Supervisors:_ [Dr Annika Guse](https://guselab.de/team/), [Dr Nicolas Foulkes](https://bip.ibcs.kit.edu/foulkes.php) [KIT]
+
+**Master of Science: Molecular Bioscience**, [Developmental and Stem Cell Biology](https://www.cos.uni-heidelberg.de/en/teaching-at-cos-heidelberg/master-studium/curriculum) @[COS, University Heidelberg](https://www.cos.uni-heidelberg.de/en) _(October 2016 - April 2019)_<br>
+Master Thesis: _Phylogeny and Characteristics of Opsin Light Receptors involved in Aiptaisa reproduction._<br>
+_Supervisors:_ [Dr Annika Guse](https://guselab.de/team/), [Dr Nicolas Foulkes](https://bip.ibcs.kit.edu/foulkes.php)
 
 **Bachelor of Science: Biowissenschaften (Biosciences)** @[COS, University Heidelberg](https://www.cos.uni-heidelberg.de/en) _(October 2012 - April 2016)_<br>
-**Bachelor Thesis:** Study of the regulation of Wnt target oscillations by β-Catenin stability during mouse somitogenesis.<br>
-_Supervisors:_ [Dr Alexander Aulehla](https://www.embl.org/groups/aulehla/) [EMBL], [Dr Detlev Arendt](https://www.embl.org/groups/arendt/) [EMBL]
+Bachelor Thesis: _Study of the regulation of Wnt target oscillations by β-Catenin stability during mouse somitogenesis._<br>
+_Supervisors:_ [Dr Alexander Aulehla](https://www.embl.org/groups/aulehla/) , [Dr Detlev Arendt](https://www.embl.org/groups/arendt/)
 
 **High School** @[Gymnasium Rodenkirchen, Cologne](https://gymnasium-rodenkirchen.de) (until 2011)
 
-## Extracurricular Courses/Workshops
+## Skills and courses
 
 <hr>
+
+### Languages
+
+**Fluent:**
+German, English
+
+### **Computer skills**
+
+- **Python** (data analysis and visualisation, intermediate 5 years)
+- **Fiji/ImageJ-macro language** (automated image analysis, intermediate 5 years)
+- **git** (basic)
+- **R** (basic)
+- **HTML/CSS** (basic)
+- **JavaScript** (basic)
+
+- **MS Office** (Word, Excel, Powerpoint)
+- **LaTeX** (basic)
+
+#### Digital Art/Illustration
+
+- **Inkscape** Vector graphics/scientific illustration
+- **Clip Studio Pro** Digital art
+- **Moho** Vector animations
+
+#### Courses
+
+- Scientific Software Development [[Certificate-English]](./Certificates/Scientific%20Software%20development.pdf) - March 2022
+- Programming Course with Python for Life Sciences [[Certificate-German]](.\Certificates\Schein_Python_Kurs_WS_2021_22_Gideon_Bergheim.pdf) -September 2021
+- Introductory Statistics for Biology [[Certificate-German]](.\Certificates\Schein_Statistic_Kurs_WS_2021_22_Gideon_Bergheim.pdf) - September 2021
 
 #### **Leadership/Management**
 
@@ -87,71 +117,44 @@ As scientists, we have the duty to communicate our work to both other scientists
   - Researchers communication, public perception and public trust. - May 2019
 - Presentation skills for high potential young master scientists. [[Certificate-German]](./Certificates/Presentation_Style.pdf) - March 2017
 
-#### **Computer skills**
-
-While I am self taught in most of my computer skills I learned the importance of knowing well structured approaches to development. Therefore, I decided to learn the important skills in the form of a structured course.
-
-- Scientific Software Development [[Certificate-English]](./Certificates/Scientific%20Software%20development.pdf) - March 2022
-- Programming Course with Python for Life Sciences
-
 #### **Other**
+
+I enjoy using creativity techniques to come put with unique and creative solutions. To support this I took some design and creativity courses:
 
 - Design Thinking [[Certificate-German] ](./Certificates/Design%20Thinking_Bergheim%2C%20Bruno%20Gideon.pdf) - May 2020
 - Creative Thinking/ Creative problem solving - March 2018
   <br>
 
-## Skills
-
-<hr>
-### Languages
-
-**Fluent:**
-German, English
-
 ### Programming/Computer
-
-- **Python** (data analysis and visualisation, intermediate 5 years)
-- **Fiji/ImageJ-macro language** (automated image analysis, intermediate 5 years)
-- **git** (basic)
-- **R** (basic)
-- **HTML/CSS** (basic)
-- **JavaScript** (basic)
-
-- MS Office (Word, Excel, Powerpoint)
-- LaTeX (basic)
-
-### Digital Art
-
-- Inkscape
-- Clip Studio Pro
 
 ## Teaching Experience
 
 <hr>
+
 ### Courses
 
-**Course organization and teaching**
+I enjoy teaching and sharing my knowledge with students. Therefore I am always happy to supervise students or to organize courses/workshops that convey knowledge to others.
 
-- Conflict Management for bachelor students
-- Conflict Management for master students
-- Conflict Management in the Laboratory for PhD students (Graduate Academy Course)
+Course organisazion and teaching:
 
-- Create scientific figures/schematics using Inkscape
-- Automatic image analysis using Fiji/imageJ macros
+- Conflict Management for bachelor students (1.5 h course)
+- Conflict Management for master students (4 h course)
+- Conflict Management in the Laboratory for PhD students (8 h Graduate Academy Course)
+- Create scientific figures/schematics using Inkscape (4 h course)
+- Automatic image analysis using Fiji/imageJ macros (4 h course)
 
-- (ongoing) Establish mental health first aid at the institute
-
-**As Supervisior:**
+Supervision:
 
 - Animal and plant anatomy (group practical)
 - Experimental development biology (group practical)
-- Laboratory practical supervision for high school - master student level
-- Supervision of 2 Bachelor thesis and 1 master thesis
+- Laboratory practicals for high school, bachelor and master student level
+- Supervision of 2 bachelor theses and 1 master thesis
 
 ## Engagement
 
 <hr>
-### Science communication Events
+
+### Outreach
 
 **The Art of Science** @[Ruperto Carola Universität Heidelberg](https://www.uni-heidelberg.de/en) _(July 2021)_<br>
 A collaboration project between scientists and artist focussed on using art to communicate scientific knowledge and results to the general public. [[Certificate-English]](./Certificates/Art_of_Science_English.pdf)[[Certificate-German]](./Certificates/Art_of_Science_Deutsch.pdf)
