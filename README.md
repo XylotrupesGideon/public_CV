@@ -190,7 +190,7 @@ The Build the Earth gaming community is an international online community with ~
 **Voluntary social service year** @[ICYE/Uganda Volunteers for Peace](https://www.icye.org/icye-in-the-world/uganda/) _(August 2011 - August 2012)_<br>
 For my volunteer social service year I went to Uganda to work at the Kiyumbakimu Childrens Village, home for AIDS-orphans. Sponsored by a "weltwärts" scholarship. [[Certificate-German]](./Certificates/Zertifikat_ICJA.pdf)
 
-**Co-founder** @[Masaka Street Children Project](https://masakastreetchildren.wordpress.com) _(since 2012)_
+**Co-founder** @[Masaka Street Children Project](https://masakastreetchildren.wordpress.com) _(since 2012)_<br>
 While I was in Uganda for my social volunteer service I aided a few Ugandan friends to found a small orphanage project which helps street children to attend primary schools.
 
 ## Hobbies
