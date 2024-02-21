@@ -68,7 +68,7 @@ Fluent: **German**, **English**
 Basic: **French**, **Luganda**
 
 ### Computer skills
-
+#### Programming
 - **Python** intermediate, data analysis and visualisation, 5 years)
 - **Fiji/ImageJ-macro language** (intermediate, automated image analysis, 5 years)
 - **git** (basic)
@@ -76,11 +76,9 @@ Basic: **French**, **Luganda**
 - **HTML/CSS** (basic)
 - **JavaScript** (basic)
 
+#### Other Computer skills
 - **MS Office** (Word, Excel, Powerpoint)
 - **LaTeX** (basic)
-
-#### Digital Art/Illustration
-
 - **Inkscape** Vector graphics/scientific illustration
 - **Clip Studio Pro** Digital art
 - **Moho** Vector animations
