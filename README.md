@@ -191,8 +191,8 @@ While I was in Uganda for my social volunteer service I aided a few Ugandan frie
 
 ## Hobbies
 
-**Drawing** - I especially enjoy drawing animals in nature or at the zoo. I especially enjoy the required attention to details, good observation skills and patience.
+**Drawing/Crafting** - I especially enjoy drawing animals in nature or at the zoo. I especially enjoy the required attention to details, good observation skills and patience.
 
-**Foraging for mushrooms** - A good way to get out into nature and learn about the world around us. Also the systematic identification of edible mushrooms
+**Foraging for mushrooms** - A good way to get out into nature and learn about the world around us. Also the systematic identification of edible mushrooms requires analytical thinking and again close attention to details.
 
-**Swimming/Bouldering** - Is my cool down excercise after long work days.
+**Swimming/Bouldering** - Is my cool down excercise after long work days and a great way of meditating and practicing mindfullness while also moving.
