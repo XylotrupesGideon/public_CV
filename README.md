@@ -9,7 +9,7 @@ Navigation:<br>
 
 <hr>
 
-**PhD Thesis** @[COS, University Heidelberg](https://www.cos.uni-heidelberg.de/en) _(March 2019 - Present)_<br>
+**PhD Thesis** @[COS, University Heidelberg](https://www.cos.uni-heidelberg.de/en) _(March 2019 - January 2023)_<br>
 **Proteomic Analysis of Cnidarian Extracellular Matrix Dynamics during Development** <br>
 _Supervisor:_ [Apl. Prof Suat Özbek](https://www.cos.uni-heidelberg.de/en/research-groups/molecular-evolution-and-genomics/prof-suat-ozbek); _TAC members:_ [Prof Dr. Thomas Holstein](https://www.cos.uni-heidelberg.de/en/research-groups/molecular-evolution-and-genomics), [Dr. Aissam Ikmi](https://www.embl.org/groups/ikmi/)
 <br>
