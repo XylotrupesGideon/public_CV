@@ -11,16 +11,16 @@ Navigation:<br>
 
 **PhD Thesis** @[COS, University Heidelberg](https://www.cos.uni-heidelberg.de/en) _(March 2019 - January 2023)_<br>
 **Proteomic Analysis of Cnidarian Extracellular Matrix Dynamics during Development** <br>
-_Supervisor:_ [Apl. Prof Suat Özbek](https://www.cos.uni-heidelberg.de/en/research-groups/molecular-evolution-and-genomics/prof-suat-ozbek); _TAC members:_ [Prof Dr. Thomas Holstein](https://www.cos.uni-heidelberg.de/en/research-groups/molecular-evolution-and-genomics), [Dr. Aissam Ikmi](https://www.embl.org/groups/ikmi/)
+_Supervisor:_ [Apl. Prof Suat Özbek](https://www.cos.uni-heidelberg.de/en/research-groups/molecular-evolution-and-genomics/prof-suat-ozbek)
 <br>
 
 **Master of Science: Molecular Bioscience, [Developmental and Stem Cell Biology](https://www.cos.uni-heidelberg.de/en/teaching-at-cos-heidelberg/master-studium/curriculum)** @[COS, University Heidelberg](https://www.cos.uni-heidelberg.de/en) _(October 2016 - April 2019)_<br>
 Master Thesis: _Phylogeny and Characteristics of Opsin Light Receptors involved in Aiptaisa reproduction._<br>
-_Supervisors:_ [Dr. Annika Guse](https://guselab.de/team/), [Dr. Nicolas Foulkes](https://bip.ibcs.kit.edu/foulkes.php)
+_Supervisors:_ [Dr. Annika Guse](https://guselab.de/team/)
 
 **Bachelor of Science: Biowissenschaften (Biosciences)** @[COS, University Heidelberg](https://www.cos.uni-heidelberg.de/en) _(October 2012 - April 2016)_<br>
 Bachelor Thesis: _Study of the regulation of Wnt target oscillations by β-Catenin stability during mouse somitogenesis._<br>
-_Supervisors:_ [Dr. Alexander Aulehla](https://www.embl.org/groups/aulehla/) , [Dr. Detlev Arendt](https://www.embl.org/groups/arendt/)
+_Supervisors:_ [Dr. Alexander Aulehla](https://www.embl.org/groups/aulehla/)
 
 **High School** @[Gymnasium Rodenkirchen, Cologne](https://gymnasium-rodenkirchen.de) (until 2011)
 
