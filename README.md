@@ -124,8 +124,9 @@ As scientists, we have the duty to communicate our work to both other scientists
 I enjoy using creativity techniques to come put with unique and creative solutions. To support this I took some design and creativity courses:
 
 - Design Thinking [[Certificate-German] ](./Certificates/Design%20Thinking_Bergheim%2C%20Bruno%20Gideon.pdf) - May 2020
-- Creative Thinking/ Creative problem solving - March 2018
+- Creative Thinking/ Creative Problem Solving - March 2018
   <br>
+- Mental Health First Aid Certificate [[Certificate-German] ](./Certificates/MHFA.pdf) - March 2024 
 
 ## Teaching Experience
 
@@ -133,7 +134,7 @@ I enjoy using creativity techniques to come put with unique and creative solutio
 
 I enjoy teaching and sharing my knowledge. Therefore I am always happy to supervise students or to organize and teach courses/workshops that convey knowledge to others.
 
-Course organisazion and teaching:
+Course organisation and teaching:
 
 - Conflict Management for bachelor students (1.5 h course)
 - Conflict Management for master students (4 h course)
@@ -179,9 +180,6 @@ As Major speaker I represented the students of the developmental and stem cell b
 
 **First Aid Helper** _(2020 - Present)_ <br>
 I have been a first aid helper for my department since 2020.
-
-**Mental Health First Aid** _(organization ongoing)_ <br>
-I am currently trying to establish Mental Health First Aid course at the Center for Organismal Studies. These courses will train us to help colleagues that are struggling with mental health.
 
 ### Social Engagement outside of university
 
