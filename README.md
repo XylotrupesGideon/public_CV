@@ -9,6 +9,11 @@ Navigation:<br>
 
 <hr>
 
+**Post doctoral reasearcher** @[COS, University Heidelberg](https://www.cos.uni-heidelberg.de/en) _(January 2024 - today)_<br>
+**Bioinformatic Projects in Stem Cell Niche Heterogeniety**
+[AG Bageritz](https://bageritz-lab.org)
+<br>
+
 **PhD Thesis** @[COS, University Heidelberg](https://www.cos.uni-heidelberg.de/en) _(March 2019 - January 2023)_<br>
 **Proteomic Analysis of Cnidarian Extracellular Matrix Dynamics during Development** <br>
 _Supervisor:_ [Apl. Prof Suat Özbek](https://www.cos.uni-heidelberg.de/en/research-groups/molecular-evolution-and-genomics/prof-suat-ozbek)
