@@ -154,6 +154,8 @@ Supervision:
 <hr>
 
 ### Outreach
+**Uni Stem Day** @[Ruperto Carola Universität Heidelberg](https://www.uni-heidelberg.de/en) _(March 2024)_<br>
+A high school student event on the topic of stem cells.
 
 **The Art of Science** @[Ruperto Carola Universität Heidelberg](https://www.uni-heidelberg.de/en) _(July 2021)_<br>
 A collaboration project between scientists and artist focussed on using art to communicate scientific knowledge the public. [[Certificate-English]](./Certificates/Art_of_Science_English.pdf)[[Certificate-German]](./Certificates/Art_of_Science_Deutsch.pdf)
